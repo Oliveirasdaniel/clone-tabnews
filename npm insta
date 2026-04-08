@@ -1,0 +1,47 @@
+[33mcommit 4f3c72c84feecaae5d2f5703867223457868c7aa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Oliveirasdaniel <exterminado513@gmail.com>
+Date:   Wed Apr 8 14:12:07 2026 +0000
+
+    adiciona as configs do editorconfig
+
+[33mcommit a45a133501d06ed4cd58cffe8e41bdaeb1089ba9[m
+Author: Oliveirasdaniel <exterminado513@gmail.com>
+Date:   Tue Apr 7 14:36:39 2026 +0000
+
+    adiciona a frase nova
+
+[33mcommit 978965c14129b1d0001fc9ca0f45c8fe252c3ad2[m
+Author: Oliveirasdaniel <exterminado513@gmail.com>
+Date:   Tue Apr 7 14:22:21 2026 +0000
+
+    add a frase nova
+
+[33mcommit 32e0a729195c10253e2a3f4406c8a89d4d4ed510[m
+Author: Oliveirasdaniel <exterminado513@gmail.com>
+Date:   Mon Apr 6 17:21:17 2026 +0000
+
+    Adiciona a pagina inicial
+
+[33mcommit 0f5003b355884b5ed70da35c3c27cbb6ea3083db[m
+Author: Oliveirasdaniel <exterminado513@gmail.com>
+Date:   Mon Apr 6 17:17:40 2026 +0000
+
+    adiciona os manifestos
+
+[33mcommit 0e8d0900ee26e7d7210b51a53e84f1668bd11b84[m
+Author: Oliveirasdaniel <exterminado513@gmail.com>
+Date:   Mon Apr 6 15:47:13 2026 +0000
+
+    adiciona o .nvmrc
+
+[33mcommit 7fe1b31f85f89b459490dd1437e62c774e4fb317[m
+Author: Oliveirasdaniel <exterminado513@gmail.com>
+Date:   Thu Mar 26 14:42:28 2026 +0000
+
+    adiciona o arquivo .gitignore
+
+[33mcommit 6ad87fcf4f5400113f6dd4423b9d381eff286f88[m
+Author: Oliveirasdaniel <exterminado513@gmail.com>
+Date:   Fri Mar 20 09:23:33 2026 -0300
+
+    Initial commit
